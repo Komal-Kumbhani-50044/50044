@@ -1,4 +1,4 @@
-# React-Todo-list
+# React-Product-list
 
 A simple example of how to do server-side rendering with the React library so that component code can be shared between server and browser.
 
